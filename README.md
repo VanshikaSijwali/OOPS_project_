@@ -1,2 +1,2 @@
 # OOPS_project_
-STUDENT MANAGEMENT SYSTEM
+Student Management System incorporating Object-Oriented Programming in C++ and File Handling.
